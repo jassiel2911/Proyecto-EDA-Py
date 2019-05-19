@@ -131,7 +131,7 @@ def multiplicacion_escalar():
 def menu_matrices():
     while True:
             print("1. Suma")
-            print("2. Suma")
+            print("2. Resta")
             print("3. Producto")
             print("4. Producto por escalar")
             print("5. Regresar")
