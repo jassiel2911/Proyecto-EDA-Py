@@ -7,7 +7,7 @@ print("\t\t\t\tCALCULADORA")
 print("\t\t\t\t===========\n")
 
 while True:
-    print("1. Complejos")
+    print("\n1. Complejos")
     print("2. Polinomios")
     print("3. Matrices")
     print("4. Salir")

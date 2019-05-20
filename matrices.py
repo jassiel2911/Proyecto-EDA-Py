@@ -131,7 +131,7 @@ def multiplicacion_escalar():
 def menu_matrices():
     while True:
             print("1. Suma")
-            print("2. Suma")
+            print("2. Resta")
             print("3. Producto")
             print("4. Producto por escalar")
             print("5. Regresar")
@@ -153,7 +153,7 @@ def menu_matrices():
                 print("\n")
             elif opcion_matrices == "Producto por escalar" or opcion_matrices == 4:
                 print("\n")
-                multiplicar_matrices()
+                multiplicacion_escalar()
                 print("\n")
             else:
                 print("\nComando no reconocido\n")
