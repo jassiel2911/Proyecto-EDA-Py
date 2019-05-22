@@ -130,10 +130,10 @@ def multiplicacion_escalar():
 
 def menu_matrices():
     while True:
-            print("1. Suma")
-            print("2. Resta")
-            print("3. Producto")
-            print("4. Producto por escalar")
+            print("1. Suma de matrices")
+            print("2. Resta de matrices")
+            print("3. Producto de matrices")
+            print("4. Producto por escalar de matrices")
             print("5. Regresar")
             opcion_matrices = input("Que desea hacer: ")
             print("\n")
