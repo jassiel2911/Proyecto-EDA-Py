@@ -51,11 +51,11 @@ def potecia_complejos():
 
 def menu_complejos():
     while True:
-            print("1. Suma")
-            print("2. Resta")
-            print("3. Producto")
-            print("4. Division")
-            print("5. Potencia")
+            print("1. Suma de complejos")
+            print("2. Resta de complejos")
+            print("3. Producto de complejos")
+            print("4. Division de complejos")
+            print("5. Potencia de complejos")
             print("6. Regresar")
             opcion_complejos = input("Que desea hacer: ")
             if opcion_complejos == "Regresar" or opcion_complejos == 6:
